@@ -5,6 +5,7 @@ public class helloworld {
 		// TODO Auto-generated method stub
 
 SalesData sale = new SalesData();
+sale.dispaly();
 displayGreeting();
 
 	}
@@ -13,6 +14,7 @@ displayGreeting();
 		// TODO Auto-generated method stub
 	System.out.println("welcome");
 	System.out.println("hai");
+     System.out.print("test1");
 	}
 
 	
